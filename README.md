@@ -2,6 +2,8 @@
 
 Our solution is described more in details in Python notebook: `eyen_project.ipynb`
 
+If you want to train the model, create a directory "car_coupling_train" and add the data in the directory.
+
 Please follow these steps to use find_couplings.py script:
 
 1. Install dependencies.
